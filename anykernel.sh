@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=ProtonKernel for a572q | credits to @Flopster101
+kernel.string=ProtonKernel-Resurrected for a572q | original credits to @Flopster101, fork by @notfleshka
 do.devicecheck=1
 do.modules=0
 do.systemless=1
